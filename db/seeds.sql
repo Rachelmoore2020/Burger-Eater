@@ -1,11 +1,6 @@
-SELECT * FROM burgers;
-
-
-INSERT INTO burgers (id, burger_name, devoured)
-VALUES (1, 'veggie burger', false);
-
-INSERT INTO burgers (id, burger_name, devoured)
-VALUES (2, "tofu burger", false);
-
-INSERT INTO burgers (id, burger_name, devoured)
-VALUES (3, "chicken sandwich", false);
+INSERT INTO cats (name) VALUES ('Molly');
+INSERT INTO cats (name) VALUES ('Charlie');
+INSERT INTO cats (name, sleepy) VALUES ('Poppy', true);
+INSERT INTO cats (name, sleepy) VALUES ('Oscar', true);
+INSERT INTO cats (name, sleepy) VALUES ('Smudge', true);
+INSERT INTO cats (name) VALUES ('Daisy');

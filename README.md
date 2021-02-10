@@ -46,7 +46,7 @@
     
 
 ## Questions:
-For questions about Node File Generator, visit my GitHub page:
+For questions about Burger-eater, visit my GitHub page:
     Rachelmoore2020
 
 ## Demonstration:

@@ -1,9 +1,0 @@
-MVC = Model View Controller
-
-Model: Every table in the database usually has a Model.
-For example you have a cats table, beer table, and parties table.
-Those are three models
-
-View: is what the user sees, all the front end html.
-
-Controller: controls what the code does and where it goes.
